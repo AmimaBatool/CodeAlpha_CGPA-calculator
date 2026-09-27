@@ -46,7 +46,17 @@ How to Run:
 Sample Output:
 1. https://github.com/AmimaBatool/CodeAlpha_CGPA-calculator/blob/main/SampleOutput_CGPA-Calculator_Part-1.png
 2. https://github.com/AmimaBatool/CodeAlpha_CGPA-calculator/blob/main/SampleOutput_CGPA-Calculator_Part-2.png
-3. 
+3. https://github.com/AmimaBatool/CodeAlpha_CGPA-calculator/blob/main/SampleOutput_CGPA-Calculator_Part-3.png
 
 What I Learned:
- 1. 
+ 1. How to develop a simple command-line application using C++.
+ 2. How to create and use classes and objects.
+ 3. How to use constructors in C++.
+ 4. How to store multiple objects using vectors.
+ 5. How to create and use member functions.
+ 6. How to use loops and conditional statements.
+ 7. How to take and process user input.
+ 8. How to calculate GPA and CGPA using arithmetic operations.
+ 9. How to organize a C++ project and upload it to GitHub.
+ 10. How to document a project using a README file.
+ 11. How to gain hands-on experience by developing a practical C++ application.
