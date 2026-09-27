@@ -44,7 +44,8 @@ How to Run:
 7. Follow the instructions displayed in the terminal.
 
 Sample Output:
-https://github.com/AmimaBatool/Task-1_AmimaBatool/blob/main/SampleOutput_Part-1.png
+1. https://github.com/AmimaBatool/CodeAlpha_CGPA-calculator/blob/main/SampleOutput_CGPA-Calculator_Part-1.png
+2. 
 
 What I Learned:
  1. 
