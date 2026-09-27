@@ -45,7 +45,8 @@ How to Run:
 
 Sample Output:
 1. https://github.com/AmimaBatool/CodeAlpha_CGPA-calculator/blob/main/SampleOutput_CGPA-Calculator_Part-1.png
-2. 
+2. https://github.com/AmimaBatool/CodeAlpha_CGPA-calculator/blob/main/SampleOutput_CGPA-Calculator_Part-2.png
+3. 
 
 What I Learned:
  1. 
